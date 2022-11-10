@@ -1,0 +1,47 @@
+h1{
+font-family: 'Roboto', cursive;
+text-align: center;
+font-size: 60px;
+color: rgb(76, 57, 143);
+}
+h2{
+font-family: 'Roboto', cursive;
+}
+p{
+font-family: 'Roboto', cursive;
+}
+
+
+img{
+border-style: groove;
+border-radius: 10px;
+width: 350px;
+}
+#newsfirst{
+	position: absolute;
+	float: left;
+	left: 20px;
+	width: 30%;
+	
+	
+}
+#newssecond{
+	position: absolute;
+	float: left;
+	left: 425px;
+	width: 30%;
+	
+	
+}
+
+#newsthird{
+	position: absolute;
+	float: right;
+	right: 20px;
+	width: 30%;
+	
+}
+
+a:hover{
+	font-size: 20px;
+}
